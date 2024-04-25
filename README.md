@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuzaifaWatto
-- 👀 I’m interested in Game Development and IOS Development.
-- 🌱 I’m currently learning programming.
+- 👀 I’m interested in Unity Game Development.
+- 🌱 I’m currently learning C# programming.
 - 💞️ I’m looking to collaborate on any game projecct.
 - 📫 How to reach me huzaifawatto.lhr2@gmail.com, +923104416902
 
